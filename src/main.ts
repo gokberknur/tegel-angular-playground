@@ -30,7 +30,7 @@ tegel(window);
 </div>
 </main>
   `,
-  styles: `.main{ height: 2500px;} `,
+  styles: `.main{ height: 100vh;} `,
 })
 export class App {
   mode = signal<'tds-mode-light' | 'tds-mode-dark'>('tds-mode-light');

@@ -1,1 +1,5 @@
 @import url('@scania/tegel/dist/tegel/tegel.css');
+
+h1 {
+    margin: 0;
+}
